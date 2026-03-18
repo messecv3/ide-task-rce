@@ -3,6 +3,8 @@
 [![Affected: VS Code](https://img.shields.io/badge/Affected-VS%20Code-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Affected: Cursor](https://img.shields.io/badge/Affected-Cursor-purple)](https://cursor.sh/)
 [![Affected: Windsurf](https://img.shields.io/badge/Affected-Windsurf-teal)](https://codeium.com/windsurf)
+[![Affected: Kiro](https://img.shields.io/badge/Affected-Kiro%20(AWS)-orange)](https://kiro.dev/)
+[![Affected: Antigravity](https://img.shields.io/badge/Affected-Antigravity%20(Google)-4285F4)](https://idx.google.com/)
 [![Severity: High](https://img.shields.io/badge/Severity-High-red)]()
 [![MITRE ATT&CK: T1204.001](https://img.shields.io/badge/MITRE-T1204.001-orange)](https://attack.mitre.org/techniques/T1204/001/)
 [![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational%20%2F%20Defensive-green)]()
@@ -41,13 +43,15 @@ VS Code and derivative IDEs (Cursor, Windsurf, and other Electron-based editors)
 
 | IDE | Vulnerable | Notes |
 |-----|-----------|-------|
-| **Visual Studio Code** | Yes | Core feature since tasks API v2.0 |
-| **Cursor** | Yes | Inherits VS Code task system |
-| **Windsurf (Codeium)** | Yes | Inherits VS Code task system |
-| **VSCodium** | Yes | Open-source VS Code fork |
-| **code-server** | Yes | Browser-based VS Code |
-| **GitHub Codespaces** | Varies | May have workspace trust mitigations |
-| **Any Electron IDE with VS Code task compat** | Likely | If they implement the tasks.json spec |
+| **Visual Studio Code** | ✅ Yes | Core feature since tasks API v2.0 |
+| **Cursor** | ✅ Yes | Inherits VS Code task system |
+| **Windsurf (Codeium)** | ✅ Yes | Inherits VS Code task system |
+| **Kiro (AWS)** | ✅ Yes | VS Code-based; inherits task system |
+| **Antigravity (Google)** | ✅ Yes | VS Code-based; inherits task system |
+| **VSCodium** | ✅ Yes | Open-source VS Code fork |
+| **code-server** | ✅ Yes | Browser-based VS Code |
+| **GitHub Codespaces** | ⚠️ Varies | May have workspace trust mitigations |
+| **Any Electron IDE with VS Code task compat** | ⚠️ Likely | If they implement the tasks.json spec |
 
 **Platforms affected:** Windows, macOS, Linux (all platforms where these IDEs run).
 
