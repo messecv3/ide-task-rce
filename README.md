@@ -43,14 +43,14 @@ VS Code and derivative IDEs (Cursor, Windsurf, and other Electron-based editors)
 
 | IDE | Vulnerable | Notes |
 |-----|-----------|-------|
-| **Visual Studio Code** | ✅ Yes | Core feature since tasks API v2.0 |
-| **Cursor** | ✅ Yes | Inherits VS Code task system |
-| **Windsurf (Codeium)** | ✅ Yes | Inherits VS Code task system |
-| **Kiro (AWS)** | ✅ Yes | VS Code-based; inherits task system |
-| **Antigravity (Google)** | ✅ Yes | VS Code-based; inherits task system |
-| **VSCodium** | ✅ Yes | Open-source VS Code fork |
-| **code-server** | ✅ Yes | Browser-based VS Code |
-| **GitHub Codespaces** | ⚠️ Varies | May have workspace trust mitigations |
+| [**Visual Studio Code**](https://code.visualstudio.com/) | ✅ Yes | Core feature since tasks API v2.0 |
+| [**Cursor**](https://cursor.sh/) | ✅ Yes | Inherits VS Code task system |
+| [**Windsurf (Codeium)**](https://codeium.com/windsurf) | ✅ Yes | Inherits VS Code task system |
+| [**Kiro (AWS)**](https://kiro.dev/) | ✅ Yes | VS Code-based; inherits task system |
+| [**Antigravity (Google)**](https://developer.google.com/project-idx) | ✅ Yes | VS Code-based; inherits task system |
+| [**VSCodium**](https://vscodium.com/) | ✅ Yes | Open-source VS Code fork |
+| [**code-server**](https://github.com/coder/code-server) | ✅ Yes | Browser-based VS Code |
+| [**GitHub Codespaces**](https://github.com/features/codespaces) | ⚠️ Varies | May have workspace trust mitigations |
 | **Any Electron IDE with VS Code task compat** | ⚠️ Likely | If they implement the tasks.json spec |
 
 **Platforms affected:** Windows, macOS, Linux (all platforms where these IDEs run).
