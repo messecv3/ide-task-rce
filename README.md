@@ -10,6 +10,16 @@
 [![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational%20%2F%20Defensive-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
+---
+
+### 📢 Join Us on Telegram
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrypterCC)
+[![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/+cqqW4Z9PcP9kODE0)
+[![Reviews & Vouches](https://img.shields.io/badge/Telegram-Reviews%20%26%20Vouches-green?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CCVouchesReviews)
+
+---
+
 > **A trusted workspace configuration file can execute arbitrary commands the moment you open a folder. No prompts. No warnings. No interaction required.**
 
 ---
