@@ -10,13 +10,14 @@
 [![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational%20%2F%20Defensive-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
----
+<div align="center">
 
-### 📢 Join Us on Telegram
+### 🔐 Brought to you by [Crypter.cloud](https://crypter.cloud) & [Crypter.shop](https://crypter.shop)
+*Advanced cryptography and security solutions*
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrypterCC)
-[![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/+cqqW4Z9PcP9kODE0)
-[![Reviews & Vouches](https://img.shields.io/badge/Telegram-Reviews%20%26%20Vouches-green?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CCVouchesReviews)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrypterCC) [![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/+cqqW4Z9PcP9kODE0) [![Reviews & Vouches](https://img.shields.io/badge/Reviews_%26_Vouches-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CCVouchesReviews)
+
+</div>
 
 ---
 
